@@ -1,10 +1,28 @@
 # Swift Hero 练习
 
+***
 
 ### 简单实例一
 
-![image](https://upload-images.jianshu.io/upload_images/11157535-b857391fc4cd01eb.gif?imageMogr2/auto-orient/strip)
+![简单实例一](1.gif)
+
+***
 
 ### 简单实例二
 
-![简单实例二](https://upload-images.jianshu.io/upload_images/11157535-a5b73d9c39552af9.gif?imageMogr2/auto-orient/strip)
+![简单实例二](2.gif)
+***
+
+### 简单实例三
+
+![简单实例三](3.gif)
+
+***
+
+### 开启 debug 模式
+
+```
+HeroDebugPlugin.isEnabled = true
+```
+
+![debug 模式](4.gif)
