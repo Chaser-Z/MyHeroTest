@@ -22,6 +22,7 @@
 		68A4328C27746FB400913395 /* ViewController_3B.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68A4328B27746FB400913395 /* ViewController_3B.swift */; };
 		68A4328E277473DA00913395 /* BaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68A4328D277473DA00913395 /* BaseViewController.swift */; };
 		68A4329127756B6600913395 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 68A4329027756B6600913395 /* .gitignore */; };
+		68A432932775708100913395 /* Configs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68A432922775708100913395 /* Configs.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -42,6 +43,7 @@
 		68A4328B27746FB400913395 /* ViewController_3B.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController_3B.swift; sourceTree = "<group>"; };
 		68A4328D277473DA00913395 /* BaseViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseViewController.swift; sourceTree = "<group>"; };
 		68A4329027756B6600913395 /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = SOURCE_ROOT; };
+		68A432922775708100913395 /* Configs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Configs.swift; sourceTree = "<group>"; };
 		B44ABF067391673B0E962733 /* Pods_MyHeroTest.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MyHeroTest.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D7659C804AE251F1A713BBBF /* Pods-MyHeroTest.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyHeroTest.release.xcconfig"; path = "Target Support Files/Pods-MyHeroTest/Pods-MyHeroTest.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -119,6 +121,7 @@
 			isa = PBXGroup;
 			children = (
 				68A4329027756B6600913395 /* .gitignore */,
+				68A432922775708100913395 /* Configs.swift */,
 			);
 			path = Configs;
 			sourceTree = "<group>";
@@ -257,6 +260,7 @@
 				68A4328227746F5F00913395 /* ViewController_1A.swift in Sources */,
 				68A4326F27746CF800913395 /* SceneDelegate.swift in Sources */,
 				68A4328427746F6B00913395 /* ViewController_2A.swift in Sources */,
+				68A432932775708100913395 /* Configs.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
